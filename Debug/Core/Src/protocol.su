@@ -1,0 +1,4 @@
+../Core/Src/protocol.c:19:6:init_protocol	8	static
+../Core/Src/protocol.c:29:6:transmit	24	static
+../Core/Src/protocol.c:44:6:HAL_TIM_PeriodElapsedCallback	24	static
+../Core/Src/protocol.c:72:6:HAL_TIM_OC_DelayElapsedCallback	24	static
